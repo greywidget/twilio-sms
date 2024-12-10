@@ -9,7 +9,7 @@ def main():
     )
     message = client.messages.create(
         from_=keyring.get_password("twilio", "phone"),
-        body="The rain in Spain falls mainly on the plain",
+        body="Hello Mrs Pickle",
         to=keyring.get_password("twilio", "my_mobile"),
     )
 

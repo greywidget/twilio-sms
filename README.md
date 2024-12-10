@@ -1,3 +1,9 @@
+# 10th December 2024 Update
+I recreated the venv using `uv` with Python 3.13.1
+When I re-ran `first_text.py` I got an exception stating that the number I was using didn't match my account.
+Logging in to Twilio I can no longer see any text numbers.
+I'm not sure if they only have paid numbers now or if free numbers expire. In any case I'm leaving it for now as I'm not using Twilio SMS at the moment.
+
 # Twilio SMS
 My first play with Twilio SMS
 
