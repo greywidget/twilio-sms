@@ -24,3 +24,4 @@ There are several moving parts and I'm not certain of them all:
 I got this all working and it's pretty cool.  
 However I'm unsure of the complete pricing and Shayne Sivley on PyBites told me about nty.sh which allows free alerts (with some caveats)
 So I think I'll give nty.sh a go first.
+So far I'm very happy with nty.sh
